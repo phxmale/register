@@ -3,10 +3,7 @@
     "username": "Phxmale",
     "email": "bogdan.sumskoy@gmail.com"
   },
-  "record": {
-    "NS": [
-      "darl.ns.cloudflare.com",
-      "serenity.ns.cloudflare.com"
-    ]
+  "records": {
+    "CNAME": "aqusu.pages.dev"
   }
 }
